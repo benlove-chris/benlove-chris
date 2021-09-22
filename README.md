@@ -32,6 +32,8 @@
  
  <p>
  <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height ="25"/>
+ <img src ="https://img.shields.io/badge/SQL-Alchemy-red?style=for-the-badge&logo=sqlalchemy&logoColor=danger" height ="25"/>
+    
  <img src ="https://img.shields.io/badge/Postgre-00000F?style=for-the-badge&logo=postgresql&logoColor=blue" height ="25"/>
  <img src ="https://img.shields.io/badge/Flask-00000F?style=for-the-badge&logo=flask&logoColor=white" height ="25"/>
 </p>

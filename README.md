@@ -3,24 +3,48 @@
 ## Olá, eu sou o Benlove! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<a href="https://github.com/benlove-chris"><img src="https://github-readme-stats.vercel.app/api?username=benlove-chris&count_private=true" height="180" /></a> <a href="https://github.com/benlove-chris"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benlove-chris&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
+<a href="https://github.com/benlove-chris"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benlove-chris&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
 
-## Skills :nerd_face:
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Chris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Chris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<h3 align="left">⭐  Statistics</h3>
+
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benlove-chris&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+  <br/>
+</p>
+
+### 📚  Stack I Work With 
+
+<p>
+ <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="25"/>
  
- <img align="center" alt="Chris-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-      <img align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Chris-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Chris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Chris-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Chris-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-   
- ##
+</p>
+
+<p>
+ <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white" height ="25"/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
+ <img src ="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=darkgrenn" height ="25"/>
+ <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
+ </p>
+ 
+ <p>
+ <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height ="25"/>
+ <img src ="https://img.shields.io/badge/Postgre-00000F?style=for-the-badge&logo=postgresql&logoColor=blue" height ="25"/>
+ <img src ="https://img.shields.io/badge/Flask-00000F?style=for-the-badge&logo=flask&logoColor=white" height ="25"/>
+</p>
+
+<p>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+</p>
+
  
 <div>
  

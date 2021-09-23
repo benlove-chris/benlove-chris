@@ -3,7 +3,7 @@
 ## Olá, eu sou o Benlove! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<a href="https://github.com/benlove-chris"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benlove-chris" /></a>
+<a href="https://github.com/benlove-chris"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benlove-chris&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" /></a>
 
 
 
